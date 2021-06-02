@@ -7,6 +7,7 @@ public class Suit {
     private String material;
     private double cost;
 
+
     public Suit() {
     }
 
