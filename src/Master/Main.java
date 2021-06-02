@@ -73,6 +73,7 @@ public class Main {
                     System.out.println("Костюм готов!");
                     if (person2.fittingForP(suitWithPants2)) {
                         System.out.println("Костюм с брюками подошел заказчику №" + Client.getCountClients());
+                        System.out.println("Хорошего дня!");
                     };
                 case "SkirtSuit":
                     seamstress.parametrs2();
